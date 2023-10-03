@@ -1,9 +1,9 @@
 import {
-  FaceSmileIcon,
+  AdjustmentsHorizontalIcon,
   ChartBarSquareIcon,
   CursorArrowRaysIcon,
   DevicePhoneMobileIcon,
-  AdjustmentsHorizontalIcon,
+  FaceSmileIcon,
   SunIcon,
 } from "@heroicons/react/24/solid";
 
@@ -57,4 +57,4 @@ const benefitTwo = {
 };
 
 
-export {benefitOne, benefitTwo};
+export { benefitOne, benefitTwo };
